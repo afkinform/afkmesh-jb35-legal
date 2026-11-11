@@ -1,0 +1,16 @@
+DATAFRAME CONTRACT STUDIO — DEVELOPER EULA
+Effective 11 November 2026
+
+1. Parties and product. This agreement is between you and AFK Mesh, the verified Türkiye-based JetBrains Marketplace vendor at https://plugins.jetbrains.com/vendor/afkmesh, for DataFrame Contract Studio. AFK Mesh is the licensor. Contact: afkinform@gmail.com. JetBrains acts as reseller and is not a party to this agreement.
+
+2. License. Subject to this agreement and your Marketplace confirmation, the developer grants you a limited, worldwide, nonexclusive, nontransferable right to install and use the plugin and make archival backup copies. Free features may be used without a Pro subscription. Pro features require a valid per-user plugin license or authorized plugin trial. An IDE subscription is separate. Organizational use must not exceed the number of licensed developers. Subscription duration, price and any applicable fallback rights are determined by your Marketplace confirmation and applicable sales terms; this agreement does not remove those rights.
+
+3. Restrictions and ownership. The developer and its licensors retain ownership. You may not redistribute, sublicense, circumvent licensing or modify the proprietary plugin except with written authorization or where mandatory law permits it. Third-party components remain subject to their own licenses, which prevail for those components. Nothing restricts rights granted by Pandera's MIT license. The plugin does not claim ownership of customer data, contracts, findings or generated test drafts.
+
+4. Local processing and user responsibilities. You choose local CSV files, declarative rules and a trusted Python interpreter. Review analysis scope, incomplete results, exceptions, baseline approvals and generated tests before relying on them. The plugin does not execute arbitrary customer schema code, install packages, run generated tests, or transmit customer files. Lexical CSV checks and pandas parsing have distinct documented semantics. Schema suggestions are not complete business rules, guarantees, legal advice or compliance certification. The privacy statement and documentation describe supported formats and limits.
+
+5. Warranty. To the extent permitted by applicable law, the plugin is provided as available and as is, without warranties of accuracy, uninterrupted operation, fitness for a particular purpose, merchantability or noninfringement. Mandatory statutory rights remain unaffected.
+
+6. Liability. To the maximum extent permitted by law, the developer is not liable for indirect, consequential or lost-profit damages. Aggregate liability relating to this plugin is limited to plugin fees paid through Marketplace during the three months before the claim. No exclusion applies where prohibited by law, including liabilities that cannot lawfully be limited. JetBrains has no contractual liability under this developer agreement because it is not a party.
+
+7. Termination and changes. Material breach may terminate the rights granted here, subject to mandatory law and applicable Marketplace terms. Expiration of Pro entitlement does not remove free functionality or any applicable fallback rights. Changes apply prospectively as permitted by law. Marketplace purchasing, refund and subscription terms continue to apply separately.
